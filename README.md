@@ -1,2 +1,2 @@
 # blockcerttest
-test files for blockcert verification
+Issuer's test files for blockcert verification
